@@ -1,0 +1,17 @@
+C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Entities\bin\Debug\netcoreapp3.1\PDA.Entities.deps.json
+C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Entities\bin\Debug\netcoreapp3.1\PDA.Entities.dll
+C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Entities\bin\Debug\netcoreapp3.1\PDA.Entities.pdb
+C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Entities\obj\Debug\netcoreapp3.1\PDA.Entities.csprojAssemblyReference.cache
+C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Entities\obj\Debug\netcoreapp3.1\PDA.Entities.AssemblyInfoInputs.cache
+C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Entities\obj\Debug\netcoreapp3.1\PDA.Entities.AssemblyInfo.cs
+C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Entities\obj\Debug\netcoreapp3.1\PDA.Entities.csproj.CoreCompileInputs.cache
+C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Entities\obj\Debug\netcoreapp3.1\PDA.Entities.dll
+C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Entities\obj\Debug\netcoreapp3.1\PDA.Entities.pdb
+C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Entities\bin\Debug\netcoreapp3.1\PDA.Entities.deps.json
+C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Entities\bin\Debug\netcoreapp3.1\PDA.Entities.dll
+C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Entities\bin\Debug\netcoreapp3.1\PDA.Entities.pdb
+C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Entities\obj\Debug\netcoreapp3.1\PDA.Entities.AssemblyInfoInputs.cache
+C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Entities\obj\Debug\netcoreapp3.1\PDA.Entities.AssemblyInfo.cs
+C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Entities\obj\Debug\netcoreapp3.1\PDA.Entities.csproj.CoreCompileInputs.cache
+C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Entities\obj\Debug\netcoreapp3.1\PDA.Entities.dll
+C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Entities\obj\Debug\netcoreapp3.1\PDA.Entities.pdb

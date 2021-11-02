@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap-table@1.18.3",
+      "destination": "wwwroot/lib/bootstrap-table/"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+2021-10-08 19:08:03.4273 Info Message Template Auto Format enabled
+2021-10-08 19:08:03.4541 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 19:08:03.5544 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 19:08:03.6134 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 19:09:48.6510 Info Message Template Auto Format enabled
+2021-10-08 19:09:48.6652 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 19:09:48.7488 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 19:09:48.8090 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 19:11:34.9246 Info Message Template Auto Format enabled
+2021-10-08 19:11:34.9460 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 19:11:35.0428 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 19:11:35.1026 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 19:12:13.6088 Info Message Template Auto Format enabled
+2021-10-08 19:12:13.6233 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 19:12:13.7145 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 19:12:13.7699 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 19:12:49.5101 Info Message Template Auto Format enabled
+2021-10-08 19:12:49.5308 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 19:12:49.6467 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 19:12:49.7081 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 19:13:25.4586 Info Message Template Auto Format enabled
+2021-10-08 19:13:25.4802 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 19:13:25.5876 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 19:13:25.6477 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 19:14:38.0258 Info Message Template Auto Format enabled
+2021-10-08 19:14:38.0428 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 19:14:38.1341 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 19:14:38.1893 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 20:10:15.1612 Info Message Template Auto Format enabled
+2021-10-08 20:10:15.1818 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 20:10:15.2713 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 20:10:15.3352 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 20:12:34.6995 Info Message Template Auto Format enabled
+2021-10-08 20:12:34.7364 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 20:12:34.8422 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 20:12:34.9527 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 20:14:15.5523 Info Message Template Auto Format enabled
+2021-10-08 20:14:15.5917 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 20:14:15.7347 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 20:14:15.8489 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 20:15:25.9816 Info Message Template Auto Format enabled
+2021-10-08 20:15:26.0175 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 20:15:26.1289 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 20:15:26.2534 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 20:17:30.8524 Info Message Template Auto Format enabled
+2021-10-08 20:17:30.8924 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 20:17:30.9945 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 20:17:31.1275 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-08 20:18:53.0933 Info Message Template Auto Format enabled
+2021-10-08 20:18:53.1364 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 20:18:53.3055 Info Adding target DatabaseTarget(Name=db)
+2021-10-08 20:18:53.4485 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA\PIASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-12 19:43:51.7073 Info Message Template Auto Format enabled
+2021-10-12 19:43:51.7270 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-12 19:43:51.8142 Info Adding target DatabaseTarget(Name=db)
+2021-10-12 19:43:51.8737 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-12 21:07:19.1861 Info Message Template Auto Format enabled
+2021-10-12 21:07:19.2043 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-12 21:07:19.3052 Info Adding target DatabaseTarget(Name=db)
+2021-10-12 21:07:19.3696 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 10:49:21.5562 Info Message Template Auto Format enabled
+2021-10-14 10:49:21.5906 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 10:49:21.7010 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 10:49:21.8346 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 10:54:04.9514 Info Message Template Auto Format enabled
+2021-10-14 10:54:05.0337 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 10:54:05.2099 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 10:54:05.3911 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 10:56:06.5797 Info Message Template Auto Format enabled
+2021-10-14 10:56:06.6094 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 10:56:06.7113 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 10:56:06.8306 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 10:59:31.9538 Info Message Template Auto Format enabled
+2021-10-14 10:59:31.9840 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 10:59:32.1082 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 10:59:32.2122 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:21:36.0856 Info Message Template Auto Format enabled
+2021-10-14 11:21:36.0976 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:21:36.1494 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:21:36.1942 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:25:26.6109 Info Message Template Auto Format enabled
+2021-10-14 11:25:26.6208 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:25:26.6570 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:25:26.6813 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:25:58.1005 Info Message Template Auto Format enabled
+2021-10-14 11:25:58.1005 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:25:58.1495 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:25:58.1763 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:27:49.7518 Info Message Template Auto Format enabled
+2021-10-14 11:27:49.7593 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:27:49.8010 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:27:49.8253 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:29:52.1236 Info Message Template Auto Format enabled
+2021-10-14 11:29:52.1327 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:29:52.1644 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:29:52.1889 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:30:05.8786 Info Message Template Auto Format enabled
+2021-10-14 11:30:05.8871 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:30:05.9239 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:30:05.9620 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:30:31.9551 Info Message Template Auto Format enabled
+2021-10-14 11:30:31.9714 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:30:32.0211 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:30:32.0806 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:32:50.2657 Info Message Template Auto Format enabled
+2021-10-14 11:32:50.2780 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:32:50.3395 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:32:50.3947 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:33:23.5025 Info Message Template Auto Format enabled
+2021-10-14 11:33:23.5025 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:33:23.5460 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:33:23.5718 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:33:43.2570 Info Message Template Auto Format enabled
+2021-10-14 11:33:43.2645 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:33:43.3033 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:33:43.3294 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:39:33.9846 Info Message Template Auto Format enabled
+2021-10-14 11:39:33.9846 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:39:34.0361 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:39:34.0606 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:40:07.0330 Info Message Template Auto Format enabled
+2021-10-14 11:40:07.0330 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 11:40:07.0635 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 11:40:07.0999 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 11:46:33.9701 Info Shutdown() called. Logger closing...
+2021-10-14 11:46:33.9701 Info Closing old configuration.
+2021-10-14 11:46:33.9701 Info Logger has been closed down.
+2021-10-14 11:46:34.0221 Info AppDomain Shutting down. Logger closing...
+2021-10-14 11:46:34.0221 Info Logger has been shut down.
+2021-10-14 12:01:46.5727 Info Message Template Auto Format enabled
+2021-10-14 12:01:46.5800 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 12:01:46.6150 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 12:01:46.6438 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 12:25:43.7447 Info Message Template Auto Format enabled
+2021-10-14 12:25:43.7447 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 12:25:43.7987 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 12:25:43.8284 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 12:37:34.6039 Info Message Template Auto Format enabled
+2021-10-14 12:37:34.6260 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 12:37:34.7021 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 12:37:34.7680 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 12:51:57.4114 Info Message Template Auto Format enabled
+2021-10-14 12:51:57.4278 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 12:51:57.5055 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 12:51:57.5587 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 12:53:06.2240 Info Message Template Auto Format enabled
+2021-10-14 12:53:06.2420 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 12:53:06.3369 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 12:53:06.3919 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 12:54:20.5889 Info Message Template Auto Format enabled
+2021-10-14 12:54:20.6039 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 12:54:20.6952 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 12:54:20.7547 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 12:54:40.6855 Info Message Template Auto Format enabled
+2021-10-14 12:54:40.7000 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 12:54:40.7810 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 12:54:40.8350 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 12:55:05.4952 Info Message Template Auto Format enabled
+2021-10-14 12:55:05.5095 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 12:55:05.5829 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 12:55:05.6379 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 12:55:33.4378 Info Message Template Auto Format enabled
+2021-10-14 12:55:33.4577 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 12:55:33.5554 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 12:55:33.6073 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 14:38:29.2863 Info Message Template Auto Format enabled
+2021-10-14 14:38:29.2863 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 14:38:29.3813 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 14:38:29.4359 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 14:40:48.7062 Info Message Template Auto Format enabled
+2021-10-14 14:40:48.7235 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 14:40:48.8086 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 14:40:48.8706 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 14:41:44.7771 Info Message Template Auto Format enabled
+2021-10-14 14:41:44.7968 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 14:41:44.8959 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 14:41:44.9705 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 14:45:42.2694 Info Message Template Auto Format enabled
+2021-10-14 14:45:42.2860 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 14:45:42.3767 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 14:45:42.4352 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 14:45:52.0540 Info Message Template Auto Format enabled
+2021-10-14 14:45:52.0683 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 14:45:52.1524 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 14:45:52.2016 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 14:52:01.7204 Info Message Template Auto Format enabled
+2021-10-14 14:52:01.7402 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 14:52:01.8364 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 14:52:01.8935 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 16:26:59.1128 Info Message Template Auto Format enabled
+2021-10-14 16:26:59.1506 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 16:26:59.2803 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 16:26:59.3812 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 16:54:51.0819 Info Message Template Auto Format enabled
+2021-10-14 16:54:51.1266 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 16:54:51.2423 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 16:54:51.3342 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 17:37:40.7982 Info Message Template Auto Format enabled
+2021-10-14 17:37:40.8382 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 17:37:40.9476 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 17:37:41.0877 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 18:04:03.9291 Info Message Template Auto Format enabled
+2021-10-14 18:04:03.9537 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 18:04:04.0405 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 18:04:04.1073 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 18:35:40.8059 Info Message Template Auto Format enabled
+2021-10-14 18:35:40.8281 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 18:35:40.9106 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 18:35:40.9682 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 19:17:02.6428 Info Message Template Auto Format enabled
+2021-10-14 19:17:02.6597 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 19:17:02.7461 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 19:17:02.8147 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 19:29:37.3453 Info Message Template Auto Format enabled
+2021-10-14 19:29:37.3639 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 19:29:37.4412 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 19:29:37.5094 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config
+2021-10-14 19:40:33.5833 Info Message Template Auto Format enabled
+2021-10-14 19:40:33.5906 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-14 19:40:33.6221 Info Adding target DatabaseTarget(Name=db)
+2021-10-14 19:40:33.6449 Info Validating config: TargetNames=db, ConfigItems=33, FilePath=C:\WorkingProjects\Practice\Code\PDA_Project\PDASolution\PDA.Web\bin\Debug\net5.0\nlog.config

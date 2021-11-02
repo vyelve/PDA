@@ -1,0 +1,113 @@
+﻿@using static PDA.Web.Helpers.NavigationIndicatorHelper;
+@using Microsoft.AspNetCore.Http
+
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
+    <a asp-controller="Home" asp-action="Index" class="brand-link">
+        <img src="@Url.Content("~/img/avatar-7.jpg")" alt="PDA Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+        <span class="brand-text font-weight-light">PDA</span>
+    </a>
+    <div class="sidebar">
+
+        @if (!string.IsNullOrEmpty(Context.Session.GetString("Portal.UserName")))
+        {
+
+            string photoPath = Context.Session.GetString("Portal.UserPhoto");
+            <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+                <div class="image">
+                    <img src="@Url.Content(photoPath)" class="img-circle elevation-2" alt="User Image">
+                </div>
+                <div class="info">
+                    <a href="javascript:void(0);" class="d-block">Hi, @Context.Session.GetString("Portal.UserName")</a>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+                <div class="image">
+                    <img src="@Url.Content("~/img/user-no.jpg")" class="img-circle elevation-2" alt="User Image">
+                </div>
+                <div class="info">
+                    <a href="#" class="d-block">Hi, Visitor</a>
+                </div>
+            </div>
+        }
+
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+                <li class="nav-item">
+                    <a asp-controller="Home" asp-action="Index" class="nav-link @Url.MakeActiveClass("Home","Index")">
+                        @*<i class="nav-icon fas fa-home"></i>*@
+                        <i class="nav-icon fas fa-tachometer-alt"></i>
+                        <p>
+                            Dashboard
+                        </p>
+                    </a>
+                </li>
+                @*@if (User.Identity.IsAuthenticated)
+                    {*@
+
+                <li class="nav-item">
+                    <a href="#" class="nav-link">
+                        <i class="nav-icon fas fa-edit"></i>
+                        <p>
+                            Master
+                            <i class="fas fa-angle-left right"></i>
+                        </p>
+                    </a>
+                    <ul class="nav nav-treeview">
+                        <li class="nav-item">
+                            <a asp-controller="Cargo" asp-action="Index" class="nav-link @Url.MakeActiveClass("Cargo","Index")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>
+                                    Cargo
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="Pilotage" asp-action="Index" class="nav-link @Url.MakeActiveClass("Pilotage","Index")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>
+                                    Pilotage
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="Port" asp-action="Index" class="nav-link @Url.MakeActiveClass("Port","Index")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>
+                                    Port
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="Terminal" asp-action="Index" class="nav-link @Url.MakeActiveClass("Terminal","Index")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>
+                                    Terminal
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="User" asp-action="Index" class="nav-link @Url.MakeActiveClass("User","Index")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>
+                                    User
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="VesselType" asp-action="Index" class="nav-link @Url.MakeActiveClass("VesselType","Index")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>
+                                    Vessel Type
+                                </p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</aside>
+
